@@ -75,12 +75,12 @@ INDEX OF UNIQUE WORDS
 
      
    A
-and
-all
-around
+*and
+*all
+*around
 …
    B
-be
-because
-but
+*be
+*because
+*but
 …
