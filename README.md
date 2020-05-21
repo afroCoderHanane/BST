@@ -73,12 +73,13 @@ AVERAGE WORD LENGTH TOO LONG – 8 characters
 
 INDEX OF UNIQUE WORDS
 
-      A
+     
+   A
 and
 all
 around
 …
-     B
+   B
 be
 because
 but
