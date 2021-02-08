@@ -1,4 +1,6 @@
 # BST
+[![Run on Repl.it](https://repl.it/badge/github/hananeDev84/BST)](https://repl.it/github/hananeDev84/BST)
+
  TREE PROJECT
 
 There is a real program developed by a computer company that reads a report ( running text ) and issues warnings on style and partially correct bad style. You are to write a simplified version of this program with the following features:
